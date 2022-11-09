@@ -157,3 +157,4 @@ cython_debug/
 .idea/vcs.xml
 .idea/video-processing.iml
 .idea/workspace.xml
+input video/V45.mp4
